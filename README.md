@@ -99,3 +99,5 @@ This project is not endorsed by or affiliated with coinhive.com in any way.
 ## License
 
 MIT
+## One Click
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/edylanr/old-stuff)
